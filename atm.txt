@@ -1,4 +1,8 @@
 This is first line of the code.
 
 praveen - This is my piece of the code.
+<<<<<<< HEAD
 Michael - good one
+=======
+hhhhhhhhhh
+>>>>>>> 07c8d2b2099bacf47fc2e78b3020fd618b2e5675
